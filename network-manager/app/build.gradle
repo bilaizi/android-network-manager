@@ -1,0 +1,36 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 'android-N'
+    buildToolsVersion "24.0.0 rc4"
+
+    defaultConfig {
+        applicationId "com.google.codelab.networkmanager"
+        minSdkVersion 11
+        targetSdkVersion 'N'
+        jackOptions {
+            enabled true
+        }
+        versionCode 1
+        versionName "1.0"
+    }
+    compileOptions {
+        incremental true
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt')
+        }
+    }
+}
+
+dependencies {
+    compile 'com.google.android.gms:play-services-gcm:9.0.0'
+    compile 'com.android.support:design:24.0.0-beta1'
+    compile 'com.android.support:recyclerview-v7:24.0.0-beta1'
+    compile 'commons-io:commons-io:2.5'
+    compile 'com.google.code.gson:gson:2.6.2'
+}

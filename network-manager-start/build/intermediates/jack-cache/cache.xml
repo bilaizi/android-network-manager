@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        revision="24.0.0 rc4"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-cd19748e6d6ded8ee0e45e2d1a8665591fa01edb.jar" />
+    </item>
+    <item
+        jar="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0-beta1\jars\classes.jar"
+        revision="24.0.0 rc4"
+        sha1="471ce760dbf7b784fd74892b5113bca4e0d8def7">
+        <dex dex="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-8830fcb3b957b27e75176e5463ff63ed4a6ed863.jar" />
+    </item>
+    <item
+        jar="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.0\jars\classes.jar"
+        revision="24.0.0 rc4"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-b01618dcb7f4150cc8ce70a8ca634aeac5abada7.jar" />
+    </item>
+    <item
+        jar="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        revision="24.0.0 rc4"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-0765ccb64dc828db7d5bf3f35047680130732a50.jar" />
+    </item>
+    <item
+        jar="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-beta1\jars\classes.jar"
+        revision="24.0.0 rc4"
+        sha1="3c0208faf42864e6695345e64d1b955070263819">
+        <dex dex="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-f3825b42274ff2dfe4d34b8b5860dfb75dec3804.jar" />
+    </item>
+    <item
+        jar="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0-beta1\jars\classes.jar"
+        revision="24.0.0 rc4"
+        sha1="6fd4eef51a55508bdf3f43f8ad96992e1da3850b">
+        <dex dex="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-5ba2e4ca44eb2b615eb6b211fb01d27c8ceef4b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\jars\libs\internal_impl-24.0.0-beta1.jar"
+        revision="24.0.0 rc4"
+        sha1="23d564c059873f398dc5d967f56791a66472ce76">
+        <dex dex="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-24.0.0-beta1-fb8af34a134bbbb1fcf336bec73694b41b5eb17d.jar" />
+    </item>
+    <item
+        jar="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\jars\classes.jar"
+        revision="24.0.0 rc4"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-98214f692ff4d7eaca475f16a53e3c77faa831e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        revision="24.0.0 rc4"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-f5d7114b74e78452ba06049c297b570ae7c4d3d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-beta1\jars\classes.jar"
+        revision="24.0.0 rc4"
+        sha1="8d3137a71200c47974c0454ae8ad272a09c533eb">
+        <dex dex="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-e4a81fcbc16f7d1dc3f419a354f263ae1d12f802.jar" />
+    </item>
+    <item
+        jar="C:\Users\bilaizi\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        revision="24.0.0 rc4"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\gson-2.6.2-f852ac2cfb19e37a6e463311be957f3b6815bb22.jar" />
+    </item>
+    <item
+        jar="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\jars\classes.jar"
+        revision="24.0.0 rc4"
+        sha1="f81eecb8d5e9e548f75f277830a94a9b37fbb987">
+        <dex dex="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-b75e241db3634f7cdfe19135a20b31a0085ef9ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        revision="24.0.0 rc4"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-a46b598ad8719f94953f63e3266fef92ec1b19a5.jar" />
+    </item>
+    <item
+        jar="F:\AndroidSdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-beta1\support-annotations-24.0.0-beta1.jar"
+        revision="24.0.0 rc4"
+        sha1="04705c19cdec60364bc04e2e928c274da1ba301b">
+        <dex dex="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-24.0.0-beta1-ec9de1cb9ca85c0c910333e400b25f28ee63e226.jar" />
+    </item>
+    <item
+        jar="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-beta1\jars\classes.jar"
+        revision="24.0.0 rc4"
+        sha1="97f82fd0c185bd2881a93646954f2429be4baa86">
+        <dex dex="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-7a236ac935b51b9a3c9ced3ce553047fc1b8e99c.jar" />
+    </item>
+    <item
+        jar="C:\Users\bilaizi\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.5\2852e6e05fbb95076fc091f6d1780f1f8fe35e0f\commons-io-2.5.jar"
+        revision="24.0.0 rc4"
+        sha1="2852e6e05fbb95076fc091f6d1780f1f8fe35e0f">
+        <dex dex="C:\Users\bilaizi\Desktop\android-network-manager-master\network-manager-start\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\commons-io-2.5-5e105c15b71eaae1673d4ee62d337f63f4e28ad8.jar" />
+    </item>
+
+</items>
